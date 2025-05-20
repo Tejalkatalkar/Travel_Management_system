@@ -27,6 +27,7 @@ The Travel Management System is a Java-based application developed in NetBeans w
 ![Screenshot 2025-03-17 121058](https://github.com/user-attachments/assets/e321159b-6a36-4879-b457-564fe16348f4)
 
 2)Sign Up Page:-
+![Screenshot 2025-03-17 120434](https://github.com/user-attachments/assets/daafb290-a5cb-410a-b1be-009ae88454a6)
 
 3)Forgot password:-
 ![image](https://github.com/user-attachments/assets/8f1fe6de-438e-4b92-bb31-c8504185d198)
